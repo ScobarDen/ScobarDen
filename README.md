@@ -1,6 +1,6 @@
 # Hi there, I'm **Denis Guschin**! 👋
 
-<img align="right" width = "350" height = "350" alt="GIF"  src="https://media.giphy.com/media/l0MYzwTebntNEii4M/giphy.gif" />
+<img align="right" width = "350" alt="GIF"  src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" />
 
 #### Connect with me:
 <a href="https://vk.com/denis_guschin" target="_blank"><img height="35px" src="https://camo.githubusercontent.com/26be819fcce90f75668efeb7a432b969dcc35a1e4478149c3fcd48fda5b457c3/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f766b2e737667" alt="Vk"></a>
@@ -12,6 +12,9 @@
 🏠 I'm **Front-end Developer**  living in **Saint-Petersburg**.   
 ⭐  I'm strong and multifunctional Web Developer with wide stack (**TypeScript**,**React**)  
 ❤️ And I enjoy making  beautiful websites on **HTML**,**SCSS** and **JavaScript**
+
+### Projects
+1. <a href="https://scobarden.github.io/react-chess/" target="_blank">Chess on React + TypeScript</a>
 
 
 ### Languages and Tools
