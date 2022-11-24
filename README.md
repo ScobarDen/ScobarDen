@@ -28,3 +28,7 @@
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
+<div>
+  <a href="https://github.com/ScobarDen">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScobarDen&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
