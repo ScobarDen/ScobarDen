@@ -14,7 +14,8 @@
 ❤️ And I enjoy making  beautiful websites on **HTML**,**SCSS** and **JavaScript**
 
 ### Projects
-1. <a href="https://scobarden.github.io/react-chess/" target="_blank">Chess on React + TypeScript</a>
+1. <a href="https://scobarden.github.io/react-portfolio/" target="_blank">Portfolio website</a> (<a href="https://github.com/ScobarDen/react-portfolio" target="_blank"></> Source code</a>)
+2. <a href="https://scobarden.github.io/react-chess/" target="_blank">Chess on React + TypeScript</a> (<a href="https://github.com/ScobarDen/react-chess" target="_blank"></> Source code</a>)
 
 
 ### Languages and Tools
