@@ -16,6 +16,7 @@
 ### Projects
 1. <a href="https://scobarden.github.io/react-portfolio/" target="_blank">Portfolio website</a> (<a href="https://github.com/ScobarDen/react-portfolio" target="_blank"></> Source code</a>)
 2. <a href="https://scobarden.github.io/react-chess/" target="_blank">Chess on React + TypeScript</a> (<a href="https://github.com/ScobarDen/react-chess" target="_blank"></> Source code</a>)
+3. <a href="https://scobarden.github.io/responsive-website-beats/" target="_blank">Beats landing</a> (<a href="https://github.com/ScobarDen/responsive-website-beats" target="_blank"></> Source code</a>)
 
 
 ### Languages and Tools
