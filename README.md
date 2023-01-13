@@ -19,13 +19,15 @@
 
 1. <a href="https://scobarden.github.io/react-portfolio/" target="_blank">Portfolio
    website</a> (<a href="https://github.com/ScobarDen/react-portfolio" target="_blank"></> Source code</a>)
-2. <a href="https://scobarden.github.io/react-ts-pizza-store/" target="_blank">Pizza's Store
+2. <a href="https://mern-blog-frontend-g4h3.onrender.com/" target="_blank">Blog (MERN)
+   </a> (<a href="https://github.com/ScobarDen/blog-mern-frontend" target="_blank"></> Frontend</a>, <a href="https://github.com/ScobarDen/blog-mern-backend" target="_blank"></> Backend</a>)
+3. <a href="https://scobarden.github.io/react-ts-pizza-store/" target="_blank">Pizza's Store
    </a> (<a href="https://github.com/ScobarDen/react-ts-pizza-store" target="_blank"></> Source code</a>)
-3. <a href="https://scobarden.github.io/react-chess/" target="_blank">Chess on React +
+4. <a href="https://scobarden.github.io/react-chess/" target="_blank">Chess on React +
    TypeScript</a> (<a href="https://github.com/ScobarDen/react-chess" target="_blank"></> Source code</a>)
-4. <a href="https://scobarden.github.io/responsive-website-beats/" target="_blank">Beats
+5. <a href="https://scobarden.github.io/responsive-website-beats/" target="_blank">Beats
    landing</a> (<a href="https://github.com/ScobarDen/responsive-website-beats" target="_blank"></> Source code</a>)
-5. <a href="https://github.com/ScobarDen/mern-app" target="_blank">Shorten Links (
+6. <a href="https://github.com/ScobarDen/mern-app" target="_blank">Shorten Links (
    MERN)</a> (<a href="https://github.com/ScobarDen/mern-app" target="_blank"></> Source code</a>)
 
 ### Languages and Tools
