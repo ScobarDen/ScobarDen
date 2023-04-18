@@ -19,8 +19,8 @@
 
 1. <a href="https://scobarden.github.io/react-portfolio/" target="_blank">Portfolio
    website</a> (<a href="https://github.com/ScobarDen/react-portfolio" target="_blank"></> Source code</a>)
-2. <a href="https://mern-blog-frontend-g4h3.onrender.com/" target="_blank">Blog (MERN)
-   </a> (<a href="https://github.com/ScobarDen/blog-mern-frontend" target="_blank"></> Frontend</a>, <a href="https://github.com/ScobarDen/blog-mern-backend" target="_blank"></> Backend</a>)
+2. <a href="https://scobars-blog.onrender.com/" target="_blank">Blog (MERN)
+   </a> (<a href="https://github.com/ScobarDen/blog-mern-frontend" target="_blank"></> Source code</a>)
 3. <a href="https://rs-fast-company.onrender.com/" target="_blank">Fast Company
       </a> (<a href="https://github.com/ScobarDen/rs-fast-company" target="_blank"></> Source code</a>)
 4. <a href="https://scobarden.github.io/react-ts-pizza-store/" target="_blank">Pizza's Store
